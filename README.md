@@ -461,6 +461,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CRDP](https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server) - MCP server for Thales CipherTrust Manager RestFul Data Protection service.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
 
+- <img src="https://avatars.githubusercontent.com/u/28765514?v=4" height="14"/> [GuardBot](https://github.com/anthonygozzini/guardbot) - Pre-trade safety for EVM, Solana and TRON: simulates a real buy and a real sell against live liquidity so honeypots show up as a failed sell, and audits a wallet's standing token approvals across the three chains, simulating every revoke on-chain before it is signed. Python standard library only, runs locally.
 <br />
 
 ## 🔌 <a name="iot"></a>IoT
